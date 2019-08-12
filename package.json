@@ -1,7 +1,7 @@
 {
-  "name": "gatsby-starter-default",
+  "name": "@cinelog/web",
   "private": true,
-  "description": "A simple starter to get up and developing quickly with Gatsby",
+  "description": "Web implementation of CineLog using GatsbyJS",
   "version": "0.1.0",
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",
   "dependencies": {
