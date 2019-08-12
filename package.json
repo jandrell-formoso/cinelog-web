@@ -3,7 +3,7 @@
   "private": true,
   "description": "Web implementation of CineLog using GatsbyJS",
   "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "Jandrell Ian L. Formoso",
   "dependencies": {
     "gatsby": "^2.13.58",
     "gatsby-image": "^2.2.8",
